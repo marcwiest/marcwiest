@@ -8,7 +8,7 @@ Senior full-stack developer with 10+ years building content platforms, headless 
 - **[Marathon Oil](https://www.marathonoil.com)** (now part of ConocoPhillips): Lead developer for four years on a Fortune 500 marketing platform built with Gatsby and Sanity, including a secure contractor portal for multiple audiences.
 - **[EG LNG](https://www.eglng.com)**: Sole and current developer on a trilingual (EN/ES/FR) Next.js site with a custom Sanity Studio, job postings, and a multi-step application system. First version delivered in 3 weeks.
 
-### Stack
+### Preferred Stack
 React, Next.js, Astro, Svelte, Node.js, Laravel, TypeScript, SCSS · GraphQL, SQL, Stripe, Supabase · Sanity, Contentful, Shopify Plus · Vercel, Netlify, GitHub Actions
 
 ### What people say
