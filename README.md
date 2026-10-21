@@ -12,6 +12,12 @@ Senior full-stack developer with 10+ years building content platforms, headless 
 I publish small, focused packages for content websites under **[SiteOnce](https://github.com/siteonce)**.
 - **[@siteonce/midnight](https://github.com/siteonce/midnight)**: Fixed headers that change style as sections scroll beneath them. TypeScript, ~2 kB gzipped, with React, Vue, Svelte, and Solid adapters. [Demo](https://siteonce.github.io/midnight/)
 
+#### @siteonce/astro-intl
+
+Multilingual routing for Astro. It pairs the same content entry across locales, lets each translation keep its own slug, and builds hreflang alternates, the locale switcher and sitemap data from those pairs, on top of Astro's own i18n. MIT licensed, built spec-first with AI agents.
+
+[Source on GitHub](https://github.com/siteonce/astro-integrations/tree/main/packages/astro-intl) | [npm](https://www.npmjs.com/package/@siteonce/astro-intl)
+
 ### Preferred Stack
 React, Next.js, Astro, Svelte, Node.js, Laravel, TypeScript, SCSS · GraphQL, SQL, Stripe, Supabase · Sanity, Contentful, Shopify Plus · Vercel, Netlify, GitHub Actions
 
